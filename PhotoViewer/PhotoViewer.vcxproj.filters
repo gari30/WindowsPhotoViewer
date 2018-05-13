@@ -121,4 +121,10 @@
       <Filter>リソース ファイル</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\Debug\gtest_maind.lib" />
+    <Library Include="lib\Debug\gtestd.lib" />
+    <Library Include="lib\Release\gtest.lib" />
+    <Library Include="lib\Release\gtest_main.lib" />
+  </ItemGroup>
 </Project>

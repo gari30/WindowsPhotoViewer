@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoViewer", "PhotoViewer\PhotoViewer.vcxproj", "{405257FD-65CC-4B98-99F6-72ED693AD0B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoViewewTest", "PhotoViewewTest\PhotoViewewTest.vcxproj", "{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{405257FD-65CC-4B98-99F6-72ED693AD0B4}.Release|x64.Build.0 = Release|x64
 		{405257FD-65CC-4B98-99F6-72ED693AD0B4}.Release|x86.ActiveCfg = Release|Win32
 		{405257FD-65CC-4B98-99F6-72ED693AD0B4}.Release|x86.Build.0 = Release|Win32
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Debug|x64.ActiveCfg = Debug|x64
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Debug|x64.Build.0 = Debug|x64
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Debug|x86.Build.0 = Debug|Win32
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Release|x64.ActiveCfg = Release|x64
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Release|x64.Build.0 = Release|x64
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Release|x86.ActiveCfg = Release|Win32
+		{F2246C87-C9F5-49C8-9FC7-BEC3371332C5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
